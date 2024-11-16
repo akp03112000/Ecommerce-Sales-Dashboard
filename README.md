@@ -18,7 +18,6 @@ This repository contains an Excel dashboard for analyzing e-commerce sales data.
 3. Explore the dashboard to analyze sales trends and insights.
 
 ## Preview
-![Dashboard Screenshot](#) *(Add a screenshot or image link here if desired)*
 
 ![Screenshot 2024-11-16 190853](https://github.com/user-attachments/assets/4beb27ff-e2af-48ac-8c27-6c4e38cb84c2)
 ![Screenshot 2024-11-16 191005](https://github.com/user-attachments/assets/f6940b58-b397-4299-872a-e6bd4558f370)
